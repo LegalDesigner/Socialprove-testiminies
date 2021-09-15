@@ -1,0 +1,184 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin-left: 100px;
+}
+
+.text img {
+    padding: 80px;
+}
+
+.text h1 {
+    position: relative;
+    bottom: 300px;
+    left: 280px;
+    width: 200px;
+    color:hsl(300, 43%, 22%); ;
+}
+
+.text p {
+    width: 370px; position: relative;
+    bottom: 280px;
+    left: 280px;
+}
+
+.box-1 {
+    width: 20%;
+    height: 48px;
+    background-color: hsl(300, 24%, 96%);
+    border-radius: 10px; 
+    position: relative;  
+    bottom: 460px;
+    left: 800px;
+}
+
+.box-1 img {
+    position: relative;
+    left: 19px;
+    top: 15px;
+}
+
+.box-2 {
+    width: 20%;
+    height: 46px;
+    background-color: hsl(300, 24%, 96%);
+    border-radius: 10px; 
+    position: relative; 
+    left: 845px; 
+    bottom: 447px;
+}
+
+.box-2 img {
+    position: relative;
+    left: 19px;
+    top: 15px;
+}
+
+.box-3 {
+    width: 20%;
+    height: 48px;
+    background-color: hsl(300, 24%, 96%);
+    border-radius: 10px;   
+    position: relative;
+    left: 893px;
+    bottom: 434px;
+}
+
+.box-3 img {
+    position: relative;
+    left: 19px;
+    top: 15px;
+}
+
+.box-4 {
+    width: 20%;
+    height: 200px;
+    background-color:  hsl(300, 43%, 22%);
+    border-radius: 10px;  
+    position: relative; 
+    bottom: 350px;
+    left: 274px;
+}
+
+.box-4 .verified1 {
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    right: -30px;
+    top: 10px;
+    width: 225px;
+    font-size: smaller;
+}
+
+.box-5 .verified2 {
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    right: -30px;
+    top: 10px;
+    width: 225px;
+    font-size: smaller;
+}
+
+.box-6 .verified3 {
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    right: -30px;
+    top: 10px;
+    width: 225px;
+    font-size: smaller;
+}
+
+
+.box-4 img {
+    border-radius: 50px;
+    height: 40px;
+    position: relative;
+    top: 47px;
+    left: 40px;
+}
+
+.box-5 img {
+    border-radius: 50px;
+    height: 40px;
+    position: relative;
+    top: 47px;
+    left: 40px;
+}
+
+.box-6 img {
+    border-radius: 50px;
+    height: 40px;
+    position: relative;
+    top: 47px;
+    left: 40px;
+}
+
+
+.box-5 {
+    width: 20%;
+    height: 200px;
+    background-color:  hsl(300, 43%, 22%);
+    border-radius: 10px;
+    position: relative; 
+    bottom: 530px;
+    left: 610px;
+    
+}
+  
+.box-6 {
+        width: 20%;
+        height: 200px;
+        background-color:  hsl(300, 43%, 22%);
+        border-radius: 10px; 
+        position: relative; 
+        bottom: 710px;
+        left: 945px;  
+}
+
+h5 {
+position: relative;
+left: 140px;
+bottom: 1px;
+font-size: x-small;
+}
+
+h4 {
+    color: hsl(0, 0%, 100%);
+    margin-left: 110px;
+}
+
+.class1{
+    color: hsl(333, 80%, 67%);
+    margin-left:105px ;
+    padding: 5px;
+}
+
+@media only screen and (max-width: 600px) {}
+     body {
+         background-color: whitesmoke;
+
+}
+
